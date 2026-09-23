@@ -6,7 +6,7 @@ import gradio as gr
 
 
 # Settings
-UP_ANGLE = 160# above this angel is considered as standing position
+UP_ANGLE = 155# above this angel is considered as standing position
 DOWN_ANGLE = 100 ## below this angel is considered as down position
 SMOOTHING_WINDOW = 3 ## for moving average calcualtion
 VISIBILITY_THRESHOLD = 0.5
